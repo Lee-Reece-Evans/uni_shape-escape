@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ab531a18bee40254da80a19b6183401d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  - impactExplosion: {instanceID: 0}
+  - arrow: {instanceID: 0}
+  - arrowHead: {instanceID: 0}
+  - SplitGoalMetSFX: {instanceID: 0}
+  - PlayerSplitSFX: {instanceID: 0}
+  - CollidedWithEnemySFX: {instanceID: 0}
+  - CollidedWithMovingEnemySFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
